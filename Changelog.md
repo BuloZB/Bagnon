@@ -1,3 +1,7 @@
+## 12.1
+* __Retail:__ Now compatibile with 12.1 servers. Opening banks might be less efficient, because Blizzard screwed the pooch.
+* Improved german localization (by _opatut_).
+
 ### 12.0.19
 * __Improvement:__  Updated addon list formatting for Classic realms.
 * __Bugfixes:__ 
